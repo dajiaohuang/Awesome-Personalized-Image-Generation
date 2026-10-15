@@ -1950,7 +1950,7 @@ CVPR 2020.  / [PDF](https://arxiv.org/abs/1911.11544v2)
 
 **Inverting layers of a large generator**<br>
 *Bau, David and Zhu, Jun-Yan and Wulff, Jonas and Peebles, William and Strobelt, Hendrik and Zhou, Bolei and Torralba, Antonio.*<br>
-ICLR 2019.  / [PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)
+ICLR 2019 Debugging Machine Learning Models Workshop.  / [PDF](https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_18.pdf)
 
 **Image2stylegan: How to embed images into the stylegan latent space?**<br>
 *Abdal, Rameen and Qin, Yipeng and Wonka, Peter.*<br>
@@ -2000,7 +2000,7 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2312.11422)
 
 **Exploring Attribute Variations in Style-based GANs using Diffusion Models**<br>
 *Parihar, Rishubh and Balaji, Prasanna and Magazine, Raghav and Vora, Sarthak and Karmali, Tejan and Jampani, Varun and Babu, R Venkatesh.*<br>
-NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2311.16052)
+NeurIPS 2023 Workshop on Diffusion Models.  / [PDF](https://arxiv.org/abs/2311.16052)
 
 **Revisiting Latent Space of GAN Inversion for Real Image Editing**<br>
 *Katsumata, Kai and Vo, Duc Minh and Liu, Bei and Nakayama, Hideki.*<br>
